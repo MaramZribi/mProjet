@@ -56,6 +56,7 @@ int main()
 {
     Date d("1/02/2022");
     cout<< d.getJour()<<endl;
-     cout<<"mregel"<<endl;
+  
+     
     return 0;
 }
